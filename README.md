@@ -49,7 +49,6 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-**Half adder**
 ```
 module ex03(a,b,cy,sm,df,bo);
 input a,b;
@@ -60,18 +59,19 @@ xor(df,a,b);
 and(bo,~a,b);
 endmodule
 ```
-**Half subractor**
-Developed by: RegisterNumber:*/
+
+Developed by:Haripriya.K 
+RegisterNumber: 212223220030*/
 
 **RTL Schematic**
-**Half adder**
+
 ![Screenshot 2024-03-26 092847](https://github.com/Haripriya132006/HALF_ADDER_SUBTRACTOR/assets/144870747/a6a9b1b1-1fe6-4abd-aee0-41834254f81f)
-**Half subractor**
+
 
 **Output/TIMING Waveform**
-**Half adder**
+
 ![Screenshot 2024-03-26 093534](https://github.com/Haripriya132006/HALF_ADDER_SUBTRACTOR/assets/144870747/75f8918c-32ae-4cc3-9091-c806e14db4a7)
 
-**Half subractor**
+
 
 **Result:**
