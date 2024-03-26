@@ -75,3 +75,4 @@ RegisterNumber: 212223220030*/
 
 
 **Result:**
+Thus the implementation-of-Half-Adder-and-Half Subtractor-circuit has been done succesfully
